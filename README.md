@@ -10,11 +10,11 @@ To run this project you will need :
 
 ## installation
 You can then install the project by cloning it :
-`https://github.com/Typher77/Qu1Z-GREAU_Ludovic-CDOF03.git `
+`https://github.com/Typher77/Qu1Z-GREAU_Ludovic-CDOF03.git `c
 
-## How to run the program
-Launch the setup.py.
-And start the main.py
+## Run it
+- Navigate to the folder : `cd Qu1Z-GREAU_Ludovic-CDOF03 `
+- start the main.py 
 
 ## A Guide to Contributing
 Look a the issues to see what can be improved and make a pull request if you make any modification.
