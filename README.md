@@ -10,7 +10,7 @@ To run this project you will need :
 
 ## installation
 You can then install the project by cloning it :
-`https://github.com/Typher77/Qu1Z-GREAU_Ludovic-CDOF03.git `c
+`https://github.com/Typher77/Qu1Z-GREAU_Ludovic-CDOF03.git `
 
 ## Run it
 - Navigate to the folder : `cd Qu1Z-GREAU_Ludovic-CDOF03 `
