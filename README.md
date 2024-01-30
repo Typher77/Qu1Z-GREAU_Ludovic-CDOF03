@@ -2,7 +2,7 @@
 A simple little game. It's a quiz with multiple-choice questions.
 
 ## Description of the project
-Small quiz of ten questions, for one player !
+ This is a small quiz of ten questions, for one player !
 
 ## Prerequisite
 To run this project you will need : 
