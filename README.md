@@ -14,7 +14,7 @@ You can then install the project by cloning it :
 
 ## Run it
 - Navigate to the folder : `cd Qu1Z-GREAU_Ludovic-CDOF03 `
-- start the main.py 
+- start the main.py :`python main.py`
 
 ## A Guide to Contributing
 Look a the issues to see what can be improved and make a pull request if you make any modification.
