@@ -1,3 +1,5 @@
+import time
+
 print("Welcome to this little game!")
 print("\nThe principle is very simple, you will have multiple choice questions and you must find the right answer!")
 
@@ -21,8 +23,14 @@ for question_number, (question_text, choices, correct_answer) in enumerate(quest
     for i, choice in enumerate(choices, start=1):
         print(f"{i}. {choice}")
 
+    start_time = time.time()  # Start the timer
+
     while True:
         user_answer = input("Your answer (enter the answer number): ")
+
+        if time.time() - start_time > 30:
+            print("Time's up! You took too long to answer.")
+            break
 
         if user_answer.isdigit() and 1 <= int(user_answer) <= len(choices):
             user_answer_index = int(user_answer) - 1
